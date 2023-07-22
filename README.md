@@ -1,6 +1,6 @@
 # Memory matching game
 
-## <b> [Click here to Play the GAME!!](https://nitinsingh0219.github.io/to-do-list.github.io/)
+## <b> [Click here to Play the GAME!!](https://nitinsingh0219.github.io/memory-match.github.io/)
 
 
 This project is made using HTML,CSS &amp; JavaScript.
